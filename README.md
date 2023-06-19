@@ -1,9 +1,11 @@
-![Chatpad AI](./banner.png)
+![EinfachCHAT](./banner.png)
 
-<h1 align="center">Chatpad AI</h1>
-<h2 align="center">Premium quality UI for ChatGPT</h2>
-<!-- <p align="center"><a href="https://chatpad.ai">Web App</a> & <a href="https://download.chatpad.ai">Desktop App</a></p> -->
-<p align="center"><a href="https://chatpad.ai">Web App</a> & <a href="https://dl.todesktop.com/230313oyppkw40a">Desktop App</a></p>
+<h1 align="center">Einfach.Chat</h1>
+<h2 align="center">Best Quality for Free</h2>
+<!-- <p align="center"><a href="https://">Web App</a> & <a href="https://github.com/AIlexander">Desktop App</a></p> -->
+<p align="center"><a href="">Desktop App soon</a></p>
+
+Recently, there has been a surge of UIs for ChatGPT, making it the new "to-do app" that everyone wants to try their hand at. Chatpad sets itself apart with a broader vision - to become the ultimate interface for ChatGPT users.
 
 Recently, there has been a surge of UIs for ChatGPT, making it the new "to-do app" that everyone wants to try their hand at. Chatpad sets itself apart with a broader vision - to become the ultimate interface for ChatGPT users.
 
